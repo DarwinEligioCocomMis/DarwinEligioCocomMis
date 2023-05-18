@@ -12,31 +12,36 @@
   </h3>
 </div>
 
---- ### 🧑‍🎓 About Me: - 🗯️ Ask me abut **PHP, Laravel, HTML, CSS, JavaScript,
-MySQL** - 📧 How to reach me **darwincocommis@outlook.com** - 🪴 I´m currently
-learning **Angular, PHP, MVC**
+--- 
+### 🧑‍🎓 About Me: 
+- 🗯️ Ask me abut **PHP, Laravel, HTML, CSS, JavaScript, MySQL** 
 
-<div align="left">
-  <h3>🔨 Languages and Tools:</h3>
-  <div>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+- 📧 How to reach me **darwincocommis@outlook.com** 
 
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+- 🪴 I´m currently learning **Angular, PHP, MVC**
 
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" title="php" alt="php" width="40" height="40" />&nbsp;
-
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168919.png" title="Oracle" alt="Oracle" width="40" height="40" />&nbsp;
-
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
-
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/github_logo_icon_169115.png" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
-
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png" title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
-
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" title="Angular" alt="Angular" width="40" height="40" />&nbsp;
-    
+ <div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" title="php" alt="php" width="40" height="40" />&nbsp;
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168919.png" title="Oracle" alt="Oracle" width="40" height="40" />&nbsp;
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/github_logo_icon_169115.png" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png" title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" title="Angular" alt="Angular" width="40" height="40" />&nbsp;
+    </div>
   </div>
-</div>
+
+---
+### 📊 My Stats: 
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarwinEligioCocomMis&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarwinEligioCocomMis&show_icons=true&theme=radical)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinEligioCocomMis&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
